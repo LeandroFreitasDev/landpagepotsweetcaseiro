@@ -328,7 +328,6 @@ h4 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: var(--espaco-lg);
-  margin-bottom: var(--espaco-xl);
 }
 
 /* REMOVER completamente as regras antigas e substituir por: */
